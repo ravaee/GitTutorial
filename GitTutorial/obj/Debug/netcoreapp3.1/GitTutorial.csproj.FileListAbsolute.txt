@@ -1,0 +1,13 @@
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.exe
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.deps.json
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.runtimeconfig.json
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.runtimeconfig.dev.json
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.dll
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\bin\Debug\netcoreapp3.1\GitTutorial.pdb
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.csprojAssemblyReference.cache
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.AssemblyInfoInputs.cache
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.AssemblyInfo.cs
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.csproj.CoreCompileInputs.cache
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.dll
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.pdb
+C:\Users\ravae\source\repos\GitTutorial\GitTutorial\obj\Debug\netcoreapp3.1\GitTutorial.genruntimeconfig.cache
